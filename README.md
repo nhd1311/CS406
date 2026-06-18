@@ -1,13 +1,6 @@
 # 🚦 Nhận Diện Biển Báo Giao Thông
 
 > Hệ thống phát hiện và phân loại biển báo giao thông sử dụng YOLOv8 và YOLOv11.
-
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple?logo=pytorch&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-Ultralytics-blueviolet?logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Demo-red?logo=streamlit&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 ---
 
 ## 📋 Mục Lục
