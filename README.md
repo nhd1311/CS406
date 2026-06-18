@@ -86,7 +86,7 @@ Do_An/
 **1. Clone repository**
 
 ```bash
-git clone <đường-dẫn-repository>
+git clone https://github.com/nhd1311/CS406
 cd Do_An
 ```
 
