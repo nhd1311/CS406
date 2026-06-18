@@ -15,7 +15,6 @@
 - [Mô hình](#-mô-hình)
 - [Bộ dữ liệu](#-bộ-dữ-liệu)
 - [Kết quả](#-kết-quả)
-- [Tác giả](#-tác-giả)
 
 ---
 
