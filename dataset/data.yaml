@@ -1,0 +1,4 @@
+train: /kaggle/input/cs406-data/dataset/images/train
+val: /kaggle/input/cs406-data/dataset/images/val
+nc: 4 
+names: ['Prohibition Signs', 'Warning Signs','Mandatory Signs','Information Signs' ]
